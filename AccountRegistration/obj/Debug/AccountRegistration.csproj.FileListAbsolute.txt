@@ -1,0 +1,11 @@
+C:\Users\Pj Arago\source\repos\AccountRegistration\AccountRegistration\bin\Debug\AccountRegistration.exe.config
+C:\Users\Pj Arago\source\repos\AccountRegistration\AccountRegistration\bin\Debug\AccountRegistration.exe
+C:\Users\Pj Arago\source\repos\AccountRegistration\AccountRegistration\bin\Debug\AccountRegistration.pdb
+C:\Users\Pj Arago\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.csprojAssemblyReference.cache
+C:\Users\Pj Arago\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.Confirm.resources
+C:\Users\Pj Arago\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.frmRegistration.resources
+C:\Users\Pj Arago\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.Properties.Resources.resources
+C:\Users\Pj Arago\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.csproj.GenerateResource.cache
+C:\Users\Pj Arago\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Pj Arago\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.exe
+C:\Users\Pj Arago\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.pdb
